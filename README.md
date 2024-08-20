@@ -8,6 +8,7 @@
 * [Criando e Utilizando a Sua Carteira de Criptomoedas](https://github.com/prpires66/dio-desafio-blockchain/tree/main/Criando%20e%20Utilizando%20a%20Sua%20Carteira%20de%20Criptomoedas)
 * [Criando o Seu Primeiro Token do Zero nos Padrões Web3](https://github.com/prpires66/dio-desafio-blockchain/tree/main/Criando%20o%20Seu%20Primeiro%20Token%20do%20Zero%20nos%20Padrões%20Web3)
 * [Criando um NFT na Prática](https://github.com/prpires66/dio-desafio-blockchain/tree/main/Criando%20um%20NFT%20na%20Prática)
+* [Criando uma Organização Autônoma Descentralizada nos Padrões Web3](https://github.com/prpires66/dio-desafio-blockchain/Criando%20uma%20Organização%20Autônoma%20Descentralizada%20nos%20Padrões%20Web3/ProjetoDAO.md)
 
 ## Detalhes do bootcamp
 
